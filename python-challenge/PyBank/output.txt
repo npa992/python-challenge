@@ -1,0 +1,4 @@
+The total number of months in the data is 86
+The average change was $ -2315
+The maximum increase in profits was $1926159 and occurred in Feb-2012
+The maximum decrease was $-2196167 and occurred in Sep-2013
